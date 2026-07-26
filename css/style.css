@@ -1,0 +1,32 @@
+body {
+    background-color: #232323;
+    color: #f5f5f5;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+.bio img {
+    width: 30%;
+    height: auto;
+}
